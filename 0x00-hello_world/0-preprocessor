@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 gcc -E $CFILE -o c  
+=======
+gcc $CFILE -E -o c 
+>>>>>>> 32b794ee190c1946f6fc471a0e20653582ff6218
