@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *main- Entery 
- *discription: chcek for negative and positive
- *Return: always
+ * compliler
+ * usesedd important
+ * strive to work
  */
 int main(void)
 {
