@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
-/* betty style doc for function main goes there */
+/** 
+  *main- Entery 
+  *discription: chcek for negative and positive
+  *Return: always
+  */
 int main(void)
 {
 	int n;
