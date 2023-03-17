@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 /**
-*main- Entery 
-*discription: chcek for negative and positive
-*Return: always
-*/
+ *main- Entery 
+ *discription: chcek for negative and positive
+ *Return: always
+ */
 int main(void)
 {
 	int n;
