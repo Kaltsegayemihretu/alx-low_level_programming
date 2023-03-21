@@ -4,7 +4,10 @@
 	 * description: "_putchar function in use"
 	 * Return: 0
 	 */
-	/* main is void function */
+	/**
+	 * main - print _pwke
+	 * description: "this is the discription"
+	 */
 	int main(void)
 	{
 		_putchar('_');
