@@ -4,8 +4,8 @@
 	 * description: "_putchar function in use"
 	 * Return: 0
 	 */
-	int main(void)
 	/* main is void function */
+	int main(void)
 	{
 		_putchar('_');
 		_putchar('p');
